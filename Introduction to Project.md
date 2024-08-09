@@ -35,5 +35,5 @@ To view or interact with this dashboard:
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
 
-Email: suraj783856@gmail.com
+Email: suraj783856@gmail.com <br>
 LinkedIn: Suraj Kumar
