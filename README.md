@@ -1,6 +1,7 @@
 # Madhav Ecommerce Sales Dashboard
 
-This repository contains a Power BI dashboard project showcasing the sales data for Madhav Ecommerce. The dashboard visualizes key sales metrics, customer insights, and payment modes.
+## Overview
+This Power BI dashboard provides a comprehensive analysis of sales data for Madhav Ecommerce. It offers key insights into total sales, profits, quantities sold, and average order values across different states, payment modes, and customer segments.
 
 [Dashboard Preview](https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard/blob/main/Screenshot%202024-08-09%20155257.png)
 
