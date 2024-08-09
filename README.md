@@ -22,16 +22,13 @@ This Power BI dashboard provides a comprehensive analysis of sales data for Madh
 This dashboard is designed for business analysts, sales managers, and other stakeholders to monitor and analyze sales performance across various dimensions. The filters for "Quarter" and "State" allow users to drill down into specific periods and regions.
 
 ## Files
-- `Madhav_Ecommerce_Sales_Dashboard.pbix` - The Power BI file for the dashboard
+- `[Madhav_Ecommerce_Sales_Dashboard.pbix](https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard/blob/main/Power%20BI%201st%20Project.pbix)` - The Power BI file for the dashboard
 - `data/` - Directory containing the data files used (if applicable)
 
 ## How to Use
-1. Clone this repository: `git clone https://github.com/yourusername/madhav-ecommerce-sales-dashboard.git`
+1. Clone this repository: `[git clone https://github.com/yourusername/madhav-ecommerce-sales-dashboard.git](https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard)`
 2. Open the `.pbix` file with Power BI Desktop
 3. Explore the visualizations and insights
-
-## Resources
-- [Power BI Tutorial](https://www.youtube.com/watch?v=6cV3OwFrOkk) - The tutorial followed to create this dashboard
 
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
