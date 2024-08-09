@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard project showcasing the sales data for Madhav Ecommerce. The dashboard visualizes key sales metrics, customer insights, and payment modes.
 
-![Dashboard Preview]([link-to-your-dashboard-image](https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard/blob/main/Power%20BI%201st%20Project.pbix](https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard/blob/main/Screenshot%202024-08-09%20155257.png))
+[Dashboard Preview](https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard/blob/main/Screenshot%202024-08-09%20155257.png)
 
 ## Key Highlights
 - 📈 Visual representation of total sales, profit, and quantity
